@@ -1,9 +1,7 @@
 //Client file
 //******************************************************************
 //
-//   Programador : Isamar López Rodríguez CCOM 3034 Sección 0U1
-//   Num. Est.   : 801-08-3174            Primer Semestre 2016-2017
-//   Asignación 9                         Prof. R. J. Colorado
+//   Programador : Isamar López Rodríguez 
 //   Archivo     : menu.cpp               Fecha : 5/12/16
 //
 //******************************************************************
